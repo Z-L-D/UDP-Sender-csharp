@@ -24,7 +24,7 @@ namespace Project
         }
 
         static void Main(string[] args){
-            udp_client("Eat Shit");
+            udp_client("Hello From Beyond");
         }
     }
 }
