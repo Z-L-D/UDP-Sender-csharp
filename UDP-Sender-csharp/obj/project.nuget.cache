@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EeAfHTBD0J2o2jdKzAKwkVVG/HkAfEGHDP255urOfvGjy/jNAZOfD0ZuEvDWPAllqxPNgnfRvEfzLEKkc0RL5Q==",
+  "dgSpecHash": "VML8hf0YD5MmpINpqI4lb08eFukdBtYU1g2GcUlY9WzX/U5IAIAeh5m+e/p9vCyukDd49aGmCLIYznpwHSAcew==",
   "success": true,
   "projectFilePath": "C:\\Production\\Applied Science\\Software\\C-Sharp\\UDP Sender\\UDP-Sender-csharp\\UDP-Sender-csharp\\UDP-Sender-csharp.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Zac\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

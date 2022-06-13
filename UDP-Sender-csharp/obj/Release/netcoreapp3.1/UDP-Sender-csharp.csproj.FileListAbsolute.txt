@@ -1,0 +1,14 @@
+C:\Production\Applied Science\Software\C-Sharp\UDP Sender\UDP-Sender-csharp\UDP-Sender-csharp\bin\Release\netcoreapp3.1\UDP-Sender-csharp.exe
+C:\Production\Applied Science\Software\C-Sharp\UDP Sender\UDP-Sender-csharp\UDP-Sender-csharp\bin\Release\netcoreapp3.1\UDP-Sender-csharp.deps.json
+C:\Production\Applied Science\Software\C-Sharp\UDP Sender\UDP-Sender-csharp\UDP-Sender-csharp\bin\Release\netcoreapp3.1\UDP-Sender-csharp.runtimeconfig.json
+C:\Production\Applied Science\Software\C-Sharp\UDP Sender\UDP-Sender-csharp\UDP-Sender-csharp\bin\Release\netcoreapp3.1\UDP-Sender-csharp.runtimeconfig.dev.json
+C:\Production\Applied Science\Software\C-Sharp\UDP Sender\UDP-Sender-csharp\UDP-Sender-csharp\bin\Release\netcoreapp3.1\UDP-Sender-csharp.dll
+C:\Production\Applied Science\Software\C-Sharp\UDP Sender\UDP-Sender-csharp\UDP-Sender-csharp\bin\Release\netcoreapp3.1\UDP-Sender-csharp.pdb
+C:\Production\Applied Science\Software\C-Sharp\UDP Sender\UDP-Sender-csharp\UDP-Sender-csharp\obj\Release\netcoreapp3.1\UDP-Sender-csharp.csproj.AssemblyReference.cache
+C:\Production\Applied Science\Software\C-Sharp\UDP Sender\UDP-Sender-csharp\UDP-Sender-csharp\obj\Release\netcoreapp3.1\UDP-Sender-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Production\Applied Science\Software\C-Sharp\UDP Sender\UDP-Sender-csharp\UDP-Sender-csharp\obj\Release\netcoreapp3.1\UDP-Sender-csharp.AssemblyInfoInputs.cache
+C:\Production\Applied Science\Software\C-Sharp\UDP Sender\UDP-Sender-csharp\UDP-Sender-csharp\obj\Release\netcoreapp3.1\UDP-Sender-csharp.AssemblyInfo.cs
+C:\Production\Applied Science\Software\C-Sharp\UDP Sender\UDP-Sender-csharp\UDP-Sender-csharp\obj\Release\netcoreapp3.1\UDP-Sender-csharp.csproj.CoreCompileInputs.cache
+C:\Production\Applied Science\Software\C-Sharp\UDP Sender\UDP-Sender-csharp\UDP-Sender-csharp\obj\Release\netcoreapp3.1\UDP-Sender-csharp.dll
+C:\Production\Applied Science\Software\C-Sharp\UDP Sender\UDP-Sender-csharp\UDP-Sender-csharp\obj\Release\netcoreapp3.1\UDP-Sender-csharp.pdb
+C:\Production\Applied Science\Software\C-Sharp\UDP Sender\UDP-Sender-csharp\UDP-Sender-csharp\obj\Release\netcoreapp3.1\UDP-Sender-csharp.genruntimeconfig.cache
