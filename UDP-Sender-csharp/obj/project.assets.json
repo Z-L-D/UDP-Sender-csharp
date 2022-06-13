@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Production\\Applied Science\\Software\\C-Sharp\\UDP Sender\\UDP-Sender-csharp\\UDP-Sender-csharp\\UDP-Sender-csharp.csproj",
+      "projectUniqueName": "C:\\Production\\Applied Science\\Software\\CS\\UDP Sender\\UDP-Sender-csharp\\UDP-Sender-csharp\\UDP-Sender-csharp.csproj",
       "projectName": "UDP-Sender-csharp",
-      "projectPath": "C:\\Production\\Applied Science\\Software\\C-Sharp\\UDP Sender\\UDP-Sender-csharp\\UDP-Sender-csharp\\UDP-Sender-csharp.csproj",
+      "projectPath": "C:\\Production\\Applied Science\\Software\\CS\\UDP Sender\\UDP-Sender-csharp\\UDP-Sender-csharp\\UDP-Sender-csharp.csproj",
       "packagesPath": "C:\\Users\\Zac\\.nuget\\packages\\",
-      "outputPath": "C:\\Production\\Applied Science\\Software\\C-Sharp\\UDP Sender\\UDP-Sender-csharp\\UDP-Sender-csharp\\obj\\",
+      "outputPath": "C:\\Production\\Applied Science\\Software\\CS\\UDP Sender\\UDP-Sender-csharp\\UDP-Sender-csharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

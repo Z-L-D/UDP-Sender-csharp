@@ -3,36 +3,20 @@ using System.Text;
 using System.Net;
 using System.Net.Sockets;
 
-namespace UDP_Sender
+class program
 {
-    class program
+    static void Main(string[] args)
     {
-        static void udp_client()
-        {
-            Console.Write("UDP Command: ");
+        string command = "Hello from C#";
+        string address = "127.0.0.1";
+        int port = 5500;
 
-            string input = Console.ReadLine();
-            string ip_address = "127.0.0.1";
-            int ip_port = 5500;
+        IPEndPoint ip_object = new IPEndPoint(IPAddress.Parse(address), port);
+        Socket server = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp);
 
-            Console.WriteLine("Sending command: " + input);
-            Console.WriteLine("To: " + ip_address + ":" + ip_port.ToString());
-
-            IPEndPoint ip = new IPEndPoint(IPAddress.Parse(ip_address), ip_port);
-            Socket server = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp);
-
-            byte[] input_encoded = new byte[1024];
-            input_encoded = Encoding.ASCII.GetBytes(input);
-            server.SendTo(input_encoded, input_encoded.Length, SocketFlags.None, ip);
-            server.Close();
-
-            Console.WriteLine("Press any key to exit...");
-            Console.ReadKey();
-        }
-
-        static void Main(string[] args)
-        {
-            udp_client();
-        }
+        byte[] command_encoded = new byte[1024];
+        command_encoded = Encoding.ASCII.GetBytes(command);
+        server.SendTo(command_encoded, command_encoded.Length, SocketFlags.None, ip_object);
+        server.Close();
     }
 }
